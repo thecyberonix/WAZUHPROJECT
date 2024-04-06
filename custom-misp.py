@@ -44,7 +44,7 @@ alert_output = {}
 # MISP Server Base URL
 misp_base_url = "https://10.0.2.6/attributes/restSearch/"
 # MISP Server API AUTH KEY
-misp_api_auth_key = "LEEVViWHXOUxEkLXzqeZpZDApQvZ5ijZpaqI82zu"
+misp_api_auth_key = "ED7GAqDUqiMCPNU3N8FtkdjiKrh2yuvqDRRxD4Gz"
 # API - HTTP Headers
 misp_apicall_headers = {
     "Content-Type": "application/json",
